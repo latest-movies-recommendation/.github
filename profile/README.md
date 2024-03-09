@@ -16,11 +16,6 @@
 |이예인|[@yein-lee](https://github.com/yein-lee)|데이터 수집|
 |임동빈|[@godogi7](https://github.com/godogi7)|AWS 인프라 구축|
 
-
-|    |                   김해빈                    |                   노은지                    |                  박광현                   |                    임동빈                     |                    이예인                    |
-| :---: |:----------------------------------------:|:----------------------------------------:|:--------------------------------------:|:------------------------------------------:|:-----------------------------------------:|
-|GitHub| [@HaeeBin](https://github.com/HaeeBin) |    [@bbbbeee11a](https://github.com/bbbbeee11a)    | [@edison-bak](https://github.com/edison-bak) |   [@godogi7](https://github.com/godogi7)   | [@yein-lee](https://github.com/yein-lee)  |
-
 ## 활용 기술 및 프레임워크
 
 | Field | Stack |
