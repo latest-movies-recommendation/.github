@@ -12,15 +12,15 @@
 | :---: |:----------------------------------------:|:----------------------------------------:|:--------------------------------------:|:------------------------------------------:|:-----------------------------------------:|
 |GitHub| [@HaeeBin](https://github.com/HaeeBin) |    [@bbbbeee11a](https://github.com/bbbbeee11a)    | [@edison-bak](https://github.com/edison-bak) |   [@godogi7](https://github.com/godogi7)   | [@yein-lee](https://github.com/yein-lee)  |
 
-## 사용 기술
+## 활용 기술 및 프레임워크
 
 | Field | Stack |
 |:---:|:---:|
 | Frontend | |
-| Backend | |
+| Backend | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
 | Scheduler | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) |
 | Data Collection | ![Selenium](https://img.shields.io/badge/Selenium-569A31?style=for-the-badge&logo=selenium&logoColor=white)|
-| Data Processing | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) |
+| Data Processing | Glue |
 | Data Analysis | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) |
 | Data Storage | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white) |
 | CI/CD | ![Github Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
