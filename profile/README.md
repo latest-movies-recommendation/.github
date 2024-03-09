@@ -8,6 +8,15 @@
 
 ## 팀 구성
 
+| 이름 | GitHub | 역할 |
+|:---:| :---: |:---:|
+|김해빈|[@HaeeBin](https://github.com/HaeeBin)|데이터 수집|
+|노은지|[@bbbbeee11a](https://github.com/bbbbeee11a)|데이터 수집|
+|박광현|[@edison-bak](https://github.com/edison-bak)|데이터 분석|
+|이예인|[@yein-lee](https://github.com/yein-lee)|데이터 수집|
+|임동빈|[@godogi7](https://github.com/godogi7)|AWS 인프라 구축|
+
+
 |    |                   김해빈                    |                   노은지                    |                  박광현                   |                    임동빈                     |                    이예인                    |
 | :---: |:----------------------------------------:|:----------------------------------------:|:--------------------------------------:|:------------------------------------------:|:-----------------------------------------:|
 |GitHub| [@HaeeBin](https://github.com/HaeeBin) |    [@bbbbeee11a](https://github.com/bbbbeee11a)    | [@edison-bak](https://github.com/edison-bak) |   [@godogi7](https://github.com/godogi7)   | [@yein-lee](https://github.com/yein-lee)  |
@@ -16,8 +25,8 @@
 
 | Field | Stack |
 |:---:|:---:|
-| Frontend | |
-| Backend | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) |
+| Backend | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | Scheduler | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) |
 | Data Collection | ![Selenium](https://img.shields.io/badge/Selenium-569A31?style=for-the-badge&logo=selenium&logoColor=white)|
 | Data Processing | Glue |
