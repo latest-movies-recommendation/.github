@@ -11,7 +11,7 @@
 | 이름 | GitHub | 역할 |
 |:---:| :---: |:---:|
 |김해빈|[@HaeeBin](https://github.com/HaeeBin)|데이터 수집, DAG 설계 및 제작, 웹(프론트, 백)|
-|노은지|[@bbbbeee11a](https://github.com/bbbbeee11a)|데이터 수집, DAG 설계 및 제작, CI/CD|
+|노은지|[@bbbbeee11a](https://github.com/bbbbeee11a)|데이터 수집, DAG 설계 및 제작, GitHub 관리, CI/CD|
 |박광현|[@edison-bak](https://github.com/edison-bak)|PM, 데이터 분석, 웹(프론트, 백)|
 |이예인|[@yein-lee](https://github.com/yein-lee)|데이터 수집, DAG 설계 및 제작|
 |임동빈|[@godogi7](https://github.com/godogi7)|AWS 인프라 구축, DAG Dependency 정립|
