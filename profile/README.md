@@ -32,12 +32,12 @@
 | Tools | ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
 
 [//]: # (## Architecture)
-### 전체 Architecture
+## 전체 Architecture
 ![image](https://github.com/latest-movies-recommendation/.github/assets/70207640/f409c638-3037-4945-a664-0f238a51e2be)
-### Network Flow
+## Network Flow
 ![image](https://github.com/latest-movies-recommendation/.github/assets/70207640/f8e43b97-d7a2-4d82-a5c3-a023cd2d8aef)
 
-### Data Flow
+## Data Flow
 ![image](https://github.com/latest-movies-recommendation/.github/assets/70207640/0c3dea3b-1114-4fbf-97ec-3f62062c7836)
 
 
