@@ -45,3 +45,10 @@
 [//]: # (![aws architecture]&#40;https://github.com/data-dev-course/project4-team2/assets/36090207/f3f2cf05-876a-4492-b1ac-6e288107eda7&#41;)
 
 ## 결과물
+![image](https://github.com/latest-movies-recommendation/.github/assets/70207640/d22a5007-5f42-4c2d-a356-24ac7a1c0b08)
+![image](https://github.com/latest-movies-recommendation/.github/assets/70207640/35310ef0-9acc-4a9a-8623-34d514ae7378)
+![image](https://github.com/latest-movies-recommendation/.github/assets/70207640/0d13441f-396e-454a-97e9-69d79214c110)
+![image](https://github.com/latest-movies-recommendation/.github/assets/70207640/fc56fadf-e793-4c52-be14-37f602d8386d)
+
+
+
